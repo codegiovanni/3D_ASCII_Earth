@@ -19,8 +19,6 @@ my_font = pg.font.SysFont('arial', 18)
 with open('earth_W140_H35.txt', 'r') as file:
     data = [file.read().replace('\n', '')]
 
-    print(data)
-
 ascii_chars = []
 for line in data:
     for char in line:
