@@ -1,5 +1,5 @@
 # 3D_ASCII_Earth
-3D spinning ASCII Earth created using Python with Pygame
+3D spinning ASCII Earth created using Python with Pygame.
 There are 5 parts (next part includes all parts before):
 
 - ascii_3d_earth_0_base.py
