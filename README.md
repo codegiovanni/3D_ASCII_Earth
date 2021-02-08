@@ -1,6 +1,6 @@
 # 3D_ASCII_Earth
 3D spinning ASCII Earth created using Python with Pygame.
-YT tutorial link: https://www.youtube.com/watch?v=7Q6yvpjvKVg&t=13s
+YT tutorial link: https://www.youtube.com/watch?v=7Q6yvpjvKVg&t
 
 There are 5 parts (next part includes all parts before):
 
