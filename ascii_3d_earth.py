@@ -9,8 +9,8 @@ WIDTH = 1920
 HEIGHT = 1080
 
 R = 350
-MAP_WIDTH = 139
-MAP_HEIGHT = 34
+MAP_WIDTH = 139 # enter 1 less (for example enter 139 if you have 140)
+MAP_HEIGHT = 34 # enter 1 less (for example enter 34 if you have 35)
 
 pg.init()
 
